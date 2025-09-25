@@ -23,7 +23,6 @@ Axios es ideal para proyectos que requieren comunicación dinámica con servidor
 - Proyectos que necesitan un manejo robusto y sencillo de solicitudes HTTP y respuestas.
 
 # Alcance del demo
-
 ¿En que consiste?
 El demo será un generador de gifs de gatos donde la persona puede escribir un texto y, a partir de eso, se creará una imagen animada que muestre la acción o el gesto del gato según lo que se escribió. La idea es mostrar cómo con Axios se pueden hacer peticiones a una API para traer de forma rápida y sencilla esos gifs personalizados.
 
